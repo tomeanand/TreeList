@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <item id="1.0" name="1.0" primaryValue="Welcome - Practitioner -- EAR and ITAR" secondaryValue="Welcome - Practitioner -- EAR and ITAR" duration="" widget="">
+      <item id="1.1" name="1.1" primaryValue="Introduction" secondaryValue="Introduction" duration="0:02:30" widget="true" />
+      <item id="1.2" name="1.2" primaryValue="Export Control Reform" secondaryValue="Export Control Reform" duration="0:03:56" widget="false" />
+   </item>
+   <item id="2.0" name=" 2.0" primaryValue="U.S. Export Controls" secondaryValue="U.S. Export Controls" duration="" widget="">
+      <item id="2.1" name="2.1" primaryValue="Introduction" secondaryValue="Introduction" duration="0:02:55" widget="false" />
+      <item id="2.2" name="2.2" primaryValue="Embargoes, Sanctions, and Restricted Parties" secondaryValue="Embargoes, Sanctions, and Restricted Parties" duration="0:02:05" widget="false" />
+      <item id="2.3" name="2.3" primaryValue="Dual-Use Goods, Software and Technology" secondaryValue="Dual-Use Goods, Software and Technology" duration="0:04:22" widget="false" />
+      <item id="2.4" name="2.4" primaryValue="Military and Defense-Related Goods, Services and Technology" secondaryValue="Military and Defense-Related Goods, Services and Technology" duration="0:04:47" widget="false" />
+   </item>
+   <item id="3.0" name="3.0" primaryValue="Export Administration Regulations (EAR)" secondaryValue="Export Administration Regulations (EAR)" duration="" widget="">
+      <item id="3.1" name="3.1" primaryValue="Introduction" secondaryValue="Introduction" duration="0:03:29" widget="false" />
+      <item id="3.2" name="3.2" primaryValue="Legal Underpinning and Regulatory Framework of the EAR" secondaryValue="Legal Underpinning and Regulatory Framework of the EAR" duration="" widget="">
+         <item id="3.2.1" name="3.2.1" primaryValue="Export Administration Act and International Emergency Economic Powers Act" secondaryValue="Export Administration Act and International Emergency Economic Powers Act" duration="0:05:08" widget="false" />
+         <item id="3.2.2" name="3.2.2" primaryValue="Other Statutory Provisions, Executive Orders and Presidential Documents" secondaryValue="Other Statutory Provisions, Executive Orders and Presidential Documents" duration="0:02:18" widget="false" />
+         <item id="3.2.3" name="3.2.3" primaryValue="How the EAR is Structured" secondaryValue="How the EAR is Structured" duration="0:05:10" widget="false" />
+      </item>
+    </item>
+</data>
+
