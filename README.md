@@ -1,7 +1,7 @@
 Teelist View - Actionscript 3.0
 ================================================
 
-MXBIT
+
 -----------------
 
 List based custom tree component
@@ -9,7 +9,7 @@ List based custom tree component
 
 
 
-Here are some project where core login comes from:
+Here are some project where core logic comes from:
 
 * [Eder Lima](http://www.ederlima.com.br/)
 
